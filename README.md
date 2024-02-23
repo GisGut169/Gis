@@ -1,3 +1,3 @@
 # Gis
 #la primeera vez que voy a hacer un pull request
-<ing src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS76hMNRyHNzsLK4NIo9M7JXjRCo9hu3m1MGQ&usqp=CAU">
+<ing src="https://static.wikia.nocookie.net/gatopedia/images/5/5c/Pusheen.jpg/revision/latest/thumbnail/width/360/height/360?cb=20230127213427&path-prefix=es">
